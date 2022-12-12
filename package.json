@@ -28,19 +28,16 @@
     "winrar",
     "windows"
   ],
-  "author": "fauzandotme <muhammadfauzan@live.com> (https://www.webmanajemen.com)",
-  "contributors": [
-    {
-      "email": "dimaslanjaka@gmail.com",
-      "name": "Dimas Lanjaka",
-      "url": "https://www.webmanajemen.com/about"
-    }
-  ],
+  "author": {
+    "email": "dimaslanjaka@gmail.com",
+    "name": "Dimas Lanjaka",
+    "url": "https://www.webmanajemen.com/about"
+  },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fauzandotme/rarjs/issues"
+    "url": "https://github.com/dimaslanjaka/winrarjs/issues"
   },
-  "homepage": "https://github.com/fauzandotme/rarjs#readme",
+  "homepage": "https://github.com/dimaslanjaka/winrarjs#readme",
   "dependencies": {
     "file-exists": "^3.0.2",
     "mime": "^1.3.4",
