@@ -18,7 +18,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dimaslanjaka/winrarjs.git"
+    "url": "git+https://github.com/dimaslanjaka/winrarjs.git",
+    "directory": "tree/windows"
   },
   "keywords": [
     "rar",
